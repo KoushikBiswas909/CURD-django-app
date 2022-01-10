@@ -31,7 +31,7 @@ python manage.py runserver
 ## Troubleshooting 🐞
 
 
-If you come across any bugs/issues with the code, feel free to open a [new issue](https://github.com/vladyslavnUA/foodanic/issues) in the repo. If you experience technical issues, you can always do a quick Google search to see if someone has encountered a similar Django-related issue before.
+If you come across any bugs/issues with the code, feel free to open a [new issue](https://github.com/KoushikBiswas909/CURD-django-app/issues) in the repo. If you experience technical issues, you can always do a quick Google search to see if someone has encountered a similar Django-related issue before.
 
 
 ## Contributing 💻

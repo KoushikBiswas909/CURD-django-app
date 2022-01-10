@@ -3,7 +3,7 @@
 A CURD webapplication build with django HTML CSS and Js, Storing Student information like Name, Email, Pasword. 
 Features include User Authentication, CRUD operations, Markdown Field support, Live deployment to Heroku.
 
-[Preview Live](https://foodanic.herokuapp.com/)
+[Preview Live]()
 
 ## Frameworks Tools Technologies
 work need here 

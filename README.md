@@ -35,4 +35,4 @@ If you come across any bugs/issues with the code, feel free to open a [new issue
 
 
 ## Contributing 💻
-[Pull requests](https://github.com/vladyslavnUA/foodanic/pulls) are welcome. For major changes, please open an issue first to discuss what you would like to change. Make sure to run tests and migrations as appropriate.
+[Pull requests](https://github.com/KoushikBiswas909/CURD-django-app/pulls) are welcome. For major changes, please open an issue first to discuss what you would like to change. Make sure to run tests and migrations as appropriate.

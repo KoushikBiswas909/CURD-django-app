@@ -12,7 +12,7 @@ work need here
 Follow these instructions to run the project locally.
 
 ```bash
-git clone https://github.com/vladyslavnUA/foodanic && cd foodanic/
+git clone https://github.com/KoushikBiswas909/CURD-django-app.git
 
 # create and activate virtual environment 
 virtualenv env

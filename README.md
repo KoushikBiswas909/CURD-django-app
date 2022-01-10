@@ -4,6 +4,7 @@ A CURD webapplication build with django HTML CSS and Js, Storing Student informa
 Features include User Authentication, CRUD operations, Markdown Field support, Live deployment to Heroku.
 
 [Preview Live]()
+<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/ruby.png"></code>
 
 ## Frameworks Tools Technologies
 work need here 
